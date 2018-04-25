@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="84px" viewBox="0 0 111 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>inbox-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page-v2" transform="translate(-1048.000000, -1355.000000)">
+            <g id="inbox-icon" transform="translate(1048.000000, 1357.000000)">
+                <g id="Group-4" stroke="#272727" stroke-width="3">
+                    <polyline id="Line" stroke-linecap="square" transform="translate(54.888235, 21.883065) scale(-1, 1) translate(-54.888235, -21.883065) " points="107.776471 43.766129 87.5352941 0 22.228119 0 2 43.766129"></polyline>
+                    <path d="M1.5,46.5 L1.5,80.0806452 L109.5,80.0806452 L109.5,46.5 L85.5277441,46.5 L73.7748029,58.9112903 L37.2251971,58.9112903 L25.4722559,46.5 L1.5,46.5 Z" id="Rectangle-3"></path>
+                </g>
+                <text id="JFK---RKV-$" font-family="GothamHTF-Black, Gotham HTF" font-size="14.6999997" font-weight="700" fill="#F88029">
+                    <tspan x="18.1399506" y="31">JFK - RKV</tspan>
+                    <tspan x="50.6049001" y="48">$</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
